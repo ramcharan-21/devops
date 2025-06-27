@@ -1,6 +1,6 @@
-# DevOps Project 57E
 
-This is the DevOps project created by Ranga Bharadwaj.
+
+This is the DevOps project created by Ramcharan,Ranga Bharadwaj and Ravindra.
 
 ## Overview
 
